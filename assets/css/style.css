@@ -78,7 +78,7 @@ figcaption {
   align-items: center;
   text-shadow: 3px 2px 3px black;
   color: #fff;
-  margin: 30px 120px 0 120px;
+  margin: 21px 120px 0 120px;
 }
 .banner_titulo h1 {
   font-size: 50px;
@@ -126,4 +126,12 @@ cite a{
     width: 150px;
     margin: 10px 0 10px 2%;
     border-top-right-radius: 25px;
+}
+footer .container2{
+    margin-top: 2px;
+    text-align: center;
+    padding: 5px;
+}
+footer .container2 a{
+    color: #fff;
 }
